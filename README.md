@@ -19,20 +19,20 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 
 ## 🧪 Ligands Used
 - Catechin
-- ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Catechin.png)
+ ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Catechin.png)
 - Quercetin
-- ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Quercetin.png)
+![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Quercetin.png)
 - Berberine
-- ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Berberine.png)
+ ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Berberine.png)
 - Curcumin
-- ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Curcumin.png)
+  ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Curcumin.png)
 
 ---
 
 ## 🧬 Target Protein
 - DNA Gyrase  
 - File used: `clean_protein.pdbqt`
-- ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Protein/Gyrase-image.png)
+  ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Protein/Gyrase-image.png)
 
 
 ---
