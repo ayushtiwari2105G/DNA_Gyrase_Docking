@@ -101,12 +101,12 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 
 ## 📊 Results
 
-| Compound   | Binding Energy (kcal/mol) |
-|------------|--------------------------|
-| Catechin   | -7.914 |
-| Quercetin  | -7.687 |
-| Berberine  | -7.105 |
-| Curcumin   | -6.44 |
+| Compound   | Binding Energy (kcal/mol) | Reason for Binding Affinity |
+|------------|--------------------------|-----------------------------|
+| Catechin   | -7.914 | High number of hydroxyl (–OH) groups enables strong hydrogen bonding and stable interaction within the binding pocket |
+| Quercetin  | -7.687 | Planar flavonoid structure with multiple –OH groups promotes hydrogen bonding and good fit in active site |
+| Berberine  | -7.105 | Aromatic structure allows π–π stacking interactions but fewer hydrogen bonds reduce overall affinity |
+| Curcumin   | -6.44  | Flexible structure with fewer effective interactions leads to weaker and less stable binding |
 
 ---
 
