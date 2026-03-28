@@ -18,10 +18,14 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 ---
 
 ## 🧪 Ligands Used
-- Catechin  
-- Quercetin  
-- Berberine  
-- Curcumin  
+- Catechin
+- ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Protein/Gyrase-image.png)
+- Quercetin
+- ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Protein/Gyrase-image.png)
+- Berberine
+- ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Protein/Gyrase-image.png)
+- Curcumin
+- ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Protein/Gyrase-image.png)
 
 ---
 
