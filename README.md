@@ -7,7 +7,7 @@ This project performs **molecular docking analysis** of selected phytochemicals 
 
 Using **AutoDock Vina**, the binding affinity and interaction patterns of compounds were evaluated. The study highlights potential natural inhibitors for antibacterial drug development.
 
-![DNA Gyrase](https://upload.wikimedia.org/...)
+![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Protein/Gyrase-image.png)
 
 ---
 
