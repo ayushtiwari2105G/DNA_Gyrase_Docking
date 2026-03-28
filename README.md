@@ -74,7 +74,7 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 ---
 
 ### 🔹 Quercetin
-![Quercetin](Results/interactions/quercetin.png)
+![Quercetin](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Result/quercetin2.png)
 
 ---
 
