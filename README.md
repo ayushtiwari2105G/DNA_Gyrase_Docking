@@ -24,9 +24,11 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 - Quercetin - Quercetin is a plant-derived flavonoid with potent antioxidant and anti-inflammatory activity. Its planar structure and hydroxyl-rich composition facilitate stable interactions with protein active sites.
   
 ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Quercetin.png)
-- Berberine
+- Berberine - Berberine is an isoquinoline alkaloid with known antimicrobial properties. Its aromatic structure allows interactions such as π–π stacking, contributing to moderate binding with target proteins.
+  
  ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Berberine.png)
-- Curcumin
+- Curcumin - Curcumin is a bioactive compound from turmeric with anti-inflammatory and antioxidant effects. Due to its flexible structure, it shows comparatively weaker and less stable binding in docking studies.
+  
   ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Curcumin.png)
 
 ---
