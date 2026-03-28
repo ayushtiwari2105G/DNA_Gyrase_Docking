@@ -21,7 +21,8 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 - Catechin - Catechin is a natural flavonoid commonly found in green tea and known for its antioxidant properties. Its multiple hydroxyl groups enable strong hydrogen bonding with target proteins, contributing to higher binding affinity in docking studies.
   
  ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Catechin.png)
-- Quercetin
+- Quercetin - Quercetin is a plant-derived flavonoid with potent antioxidant and anti-inflammatory activity. Its planar structure and hydroxyl-rich composition facilitate stable interactions with protein active sites.
+  
 ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Quercetin.png)
 - Berberine
  ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Berberine.png)
