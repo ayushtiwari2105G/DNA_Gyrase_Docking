@@ -1,0 +1,19 @@
+receptor = C:\Bioinformatics\DNA_Gyrase_Docking\mol-doc-2-ber\clean_protein.pdbqt
+ligand = C:\Bioinformatics\DNA_Gyrase_Docking\mol-doc-2-ber\Catechin.pdbqt
+
+out = C:\Bioinformatics\DNA_Gyrase_Docking\mol-doc-2-ber\output.pdbqt
+
+center_x = 19.601
+center_y = 19.15
+center_z =  43.344
+
+
+
+size_x = 20                
+size_y = 20
+size_z = 20
+
+exhaustiveness = 16
+num_modes = 10
+energy_range = 4
+
