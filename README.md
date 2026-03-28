@@ -18,8 +18,8 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 ---
 
 ## 🧪 Ligands Used
-- Catechin
-- Catechin is a natural flavonoid commonly found in green tea and known for its antioxidant properties. Its multiple hydroxyl groups enable strong hydrogen bonding with target proteins, contributing to higher binding affinity in docking studies.
+- Catechin - Catechin is a natural flavonoid commonly found in green tea and known for its antioxidant properties. Its multiple hydroxyl groups enable strong hydrogen bonding with target proteins, contributing to higher binding affinity in docking studies.
+  
  ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Catechin.png)
 - Quercetin
 ![DNA Gyrase](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/ligand/Quercetin.png)
