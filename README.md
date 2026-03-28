@@ -79,7 +79,7 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 ---
 
 ### 🔹 Berberine
-![Berberine](Results/interactions/berberine.png)
+![Berberine](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Result/berbeqine2.png)
 
 ---
 
