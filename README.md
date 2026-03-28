@@ -62,7 +62,7 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 
 ## 📊 Binding Energy Comparison
 
-![Binding Graph](Result/Binding Energy (kcal_mol) vs. Compound.png)
+![Binding Graph](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Result/Binding%20Energy%20(kcal_mol)%20vs.%20Compound.png)
 
 ---
 
