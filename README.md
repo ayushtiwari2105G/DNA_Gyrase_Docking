@@ -69,7 +69,7 @@ Using **AutoDock Vina**, the binding affinity and interaction patterns of compou
 ## 📸 Molecular Interaction Visualizations
 
 ### 🔹 Catechin
-![Catechin](Results/interactions/catechin.png)
+![Catechin](https://github.com/ayushtiwari2105G/DNA_Gyrase_Docking/blob/main/DNA_Gyrase_Docking/Result/catechine2.png)
 
 ---
 
